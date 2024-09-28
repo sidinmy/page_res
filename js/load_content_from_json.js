@@ -1,5 +1,5 @@
 // 指定JSON数据的链接
-const jsonUrl = 'https://example.com/data.json';
+const jsonUrl = 'https://github.com/sidinmy/page_res/blob/main/json/notice.json?raw=true';
 
 // 使用fetch API获取JSON数据
 fetch(jsonUrl)
